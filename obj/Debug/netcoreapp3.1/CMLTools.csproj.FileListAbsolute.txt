@@ -1,0 +1,13 @@
+D:\James\CMDTools\CMLTools\bin\Debug\netcoreapp3.1\CMLTools.exe
+D:\James\CMDTools\CMLTools\bin\Debug\netcoreapp3.1\CMLTools.deps.json
+D:\James\CMDTools\CMLTools\bin\Debug\netcoreapp3.1\CMLTools.runtimeconfig.json
+D:\James\CMDTools\CMLTools\bin\Debug\netcoreapp3.1\CMLTools.runtimeconfig.dev.json
+D:\James\CMDTools\CMLTools\bin\Debug\netcoreapp3.1\CMLTools.dll
+D:\James\CMDTools\CMLTools\bin\Debug\netcoreapp3.1\CMLTools.pdb
+D:\James\CMDTools\CMLTools\obj\Debug\netcoreapp3.1\CMLTools.csprojAssemblyReference.cache
+D:\James\CMDTools\CMLTools\obj\Debug\netcoreapp3.1\CMLTools.AssemblyInfoInputs.cache
+D:\James\CMDTools\CMLTools\obj\Debug\netcoreapp3.1\CMLTools.AssemblyInfo.cs
+D:\James\CMDTools\CMLTools\obj\Debug\netcoreapp3.1\CMLTools.csproj.CoreCompileInputs.cache
+D:\James\CMDTools\CMLTools\obj\Debug\netcoreapp3.1\CMLTools.dll
+D:\James\CMDTools\CMLTools\obj\Debug\netcoreapp3.1\CMLTools.pdb
+D:\James\CMDTools\CMLTools\obj\Debug\netcoreapp3.1\CMLTools.genruntimeconfig.cache
